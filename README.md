@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="C:\Users\dell\Downloads\ChatGPT Image Sep 17, 2026, 11_47_16 AM.png" width="100%">
+<img src=GuardAgent/project/Guard Agent Image.png width="100%">
 
 <br>
 
