@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src=GuardAgent/project/Guard Agent Image.png width="100%">
+<img src="GuardAgent/project/Guard Agent Image.png" width="100%">
 
 <br>
 
